@@ -1,3 +1,6 @@
 print ("Hello!");
 print ("Hello world");
 print ("hello every body");
+print ("Hello My dear friend!");
+print ("See u later!");
+
